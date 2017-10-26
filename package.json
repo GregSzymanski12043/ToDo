@@ -1,0 +1,25 @@
+{
+  "name": "exam",
+  "version": "1.0.0",
+  "description": "exam",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregSzymanski12043/ToDo.git"
+  },
+  "author": "Greg Szymanski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GregSzymanski12043/ToDo/issues"
+  },
+  "homepage": "https://github.com/GregSzymanski12043/ToDo#readme"
+}
