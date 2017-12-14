@@ -7,11 +7,18 @@ development: {
     root:rootPath,
     app:{ name:'ToDo' },
     port:5000,
+    db:'mongodb://127.0.0.1/todo-dev',
+    uploads: rootPath + "/public/uploads/",    
+    secret: "cayennedlikedhistreats"
 },
 production: {
     root:rootPath,
     app:{ name:'ToDo' },
-    port: 80,}
+    port: 80,
+}  
 };
+
+
+
 
 module.exports = config[env];

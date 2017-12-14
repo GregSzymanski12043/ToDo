@@ -1,0 +1,18 @@
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-11-15T22:43:20.311Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-11-15T22:43:50.382Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-11-15T22:52:16.520Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-11-15T22:53:41.150Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-11-15T22:53:41.403Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-11-15T23:00:29.088Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-11-15T23:00:29.358Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-11-15T23:01:21.152Z"}
+{"level":"error","message":"Error: Unknown authentication strategy \"jwt\"\n    at attempt (C:\\Users\\gregs\\Desktop\\To Do\\server\\node_modules\\passport\\lib\\middleware\\authenticate.js:186:37)\n    at authenticate (C:\\Users\\gregs\\Desktop\\To Do\\server\\node_modules\\passport\\lib\\middleware\\authenticate.js:362:7)\n    at Layer.handle [as handle_request] (C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at Immediate.next (C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\index.js:275:10)","timestamp":"2017-11-15T23:04:24.147Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-11-15T23:05:17.407Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-11-15T23:05:17.651Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-11-15T23:07:19.363Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-11-15T23:07:19.582Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-11-15T23:10:28.350Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-11-15T23:10:28.613Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-11-15T23:11:18.181Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-11-15T23:11:18.415Z"}
+{"level":"verbose","message":"Create user 5a0cc7416647ea1d94311114","timestamp":"2017-11-15T23:11:23.140Z"}

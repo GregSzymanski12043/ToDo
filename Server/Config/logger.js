@@ -1,15 +1,3 @@
-app.use(morgan(dev))
-
-
-new (require('winston-daily-rotate-file'))({
-    filename: `${logDir}/-results.log`,
-    timestamp: tsFormat,
-    datePattern: 'yyyy-MM-dd',
-    prepend: true,
-    level: env === 'development' ? 'verbose' : 'info'
-  })
-
-
 var winston = require('winston');
      fs = require('fs');
 
@@ -42,3 +30,4 @@ var logDir = 'log';
             logger.log(level, message);
         };
    exports.log = log;
+

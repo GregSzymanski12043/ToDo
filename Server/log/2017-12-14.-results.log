@@ -1,0 +1,36 @@
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-14T02:08:47.102Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-14T02:08:47.448Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-14T04:01:57.643Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-14T04:01:57.918Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-14T05:15:32.342Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-14T05:15:32.618Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-14T05:29:54.861Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-14T05:29:55.143Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-14T05:52:27.542Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-14T05:52:27.855Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-14T16:49:04.493Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-14T16:49:26.104Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-14T16:49:26.375Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-14T16:54:26.733Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-14T17:00:14.017Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-14T17:00:14.289Z"}
+{"level":"error","message":"Error: Unknown authentication strategy \"loval\"\n    at attempt (C:\\Users\\gregs\\Desktop\\To Do\\server\\node_modules\\passport\\lib\\middleware\\authenticate.js:186:37)\n    at authenticate (C:\\Users\\gregs\\Desktop\\To Do\\server\\node_modules\\passport\\lib\\middleware\\authenticate.js:362:7)\n    at Layer.handle [as handle_request] (C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\gregs\\Desktop\\To Do\\node_modules\\express\\lib\\router\\index.js:275:10)","timestamp":"2017-12-14T17:00:21.874Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-14T17:01:16.282Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-14T17:01:16.552Z"}
+{"level":"verbose","message":"Get all todos","timestamp":"2017-12-14T17:02:51.799Z"}
+{"level":"verbose","message":"Get all todos","timestamp":"2017-12-14T17:03:54.064Z"}
+{"level":"verbose","message":"Get all todos","timestamp":"2017-12-14T17:05:19.371Z"}
+{"level":"verbose","message":"Create ToDo","timestamp":"2017-12-14T17:05:41.600Z"}
+{"level":"verbose","message":"Get all todos","timestamp":"2017-12-14T17:07:20.027Z"}
+{"level":"verbose","message":"Update ToDo","timestamp":"2017-12-14T17:08:09.493Z"}
+{"level":"verbose","message":"Get all todos","timestamp":"2017-12-14T17:12:09.650Z"}
+{"level":"verbose","message":"Create ToDo","timestamp":"2017-12-14T17:12:30.776Z"}
+{"level":"verbose","message":"Upload file for todo 5a32b0fe11250a04d847b492 and 5a32acc25306de2f60cf8107","timestamp":"2017-12-14T17:12:30.825Z"}
+{"level":"verbose","message":"Get all todos","timestamp":"2017-12-14T17:12:42.889Z"}
+{"level":"verbose","message":"Update ToDo","timestamp":"2017-12-14T17:12:57.840Z"}
+{"level":"verbose","message":"Update ToDo","timestamp":"2017-12-14T17:13:03.321Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-14T17:25:43.370Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-14T17:25:43.652Z"}
+{"level":"verbose","message":"Get all todos","timestamp":"2017-12-14T17:26:20.804Z"}
+{"level":"verbose","message":"Get all todos","timestamp":"2017-12-14T17:27:34.815Z"}
+{"level":"verbose","message":"Update ToDo","timestamp":"2017-12-14T17:27:47.897Z"}
